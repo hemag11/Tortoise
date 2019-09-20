@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="D:/dev/selinium_workspace/libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="D:/dev/selinium_workspace/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="D:/dev/selinium_workspace/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/dev/selinium_workspace/htmlunit-driver-2.27-with-dependencies.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

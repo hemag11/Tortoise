@@ -34,7 +34,7 @@ public class Webelements_add_url {
 			
 			
 			//System.out.println(title);
-			String exptitle="Find a Flight: Mercury Tours: ";
+			String exptitle="Find a Flight: Mercury Tours:";
 			String acttitle = driver.getTitle();
 			
 			
