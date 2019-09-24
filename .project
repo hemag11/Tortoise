@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>webdrivr_xpath</name>
+=======
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Selenium_Test</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -15,3 +21,26 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JavaForSeleniumwebdriver</name>
+>>>>>>> 2cc925366e96a8469270d9f51b6c6328d8e0b5a6
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
+<<<<<<< HEAD
+=======
+>>>>>>> f9ffcdeb38e29f97efa8f6b3897c1083728d5fb1
+>>>>>>> 2cc925366e96a8469270d9f51b6c6328d8e0b5a6
